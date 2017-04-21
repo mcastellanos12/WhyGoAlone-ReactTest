@@ -1,1 +1,1 @@
-# WhyGoAlone-ReactTest
+# WhyGoAloneReact
